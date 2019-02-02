@@ -13,7 +13,7 @@
 </header>
 <div class="w3-container">
 
-<form class="w3-container w3-card-4" action="main.php" method="get">
+<form class="w3-container w3-card-4" action="compare.php" method="get">
  <p>
  <input class="w3-input" name="searchdata" type="text" required>
  <label class="w3-label w3-validate">Search Product</label></p>
